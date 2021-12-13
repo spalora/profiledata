@@ -24,40 +24,6 @@
 			"duration": "Aug 2010 - Oct 2012",
 			"work_desc": "Actively resolved bugs, handled enhancements and Production Support."
 		}
-	],
-    "skills": [
-        {
-            "id":1,
-			"skill_name": "Java",
-			"skill_perct": "90%",
-            "full":"cover full90",
-            "fill":"fill90",
-			"half":"cover half"
-		},
-        {
-            "id":2,
-			"skill_name": "Android",
-			"skill_perct": "75%",
-            "full":"cover full75",
-            "fill":"fill75",
-			"half":"cover half"
-		},
-		{
-            "id":3,
-			"skill_name": "DB",
-			"skill_perct": "65%",
-            "full":"cover full65",
-            "fill":"fill65",
-			"half":"cover half"
-		},
-        {
-            "id":4,
-			"skill_name": "UI",
-			"skill_perct": "50%",
-            "full":"cover full50",
-            "fill":"fill50",
-			"half":"cover half"
-		}
 	]
     
 }
